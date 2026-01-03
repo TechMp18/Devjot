@@ -1,0 +1,21 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python / Backend
+__pycache__/
+*.pyc
+/server/venv/
+/server/.env
+
+# Node / Frontend
+node_modules/
+/client/dist/
+/client/.env
+/client/.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
